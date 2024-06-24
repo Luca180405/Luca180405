@@ -14,10 +14,7 @@
 
 ## 💻 Technologies I use:
 
-- Html <br>
-- Svelte <br>
-- Django<br>
+- Flutter<br>
 - Tailwind CSS<br>
-- Bootstrap <br>
 
 ## 📫 How to reach me:
