@@ -9,7 +9,7 @@
 
 ## 🌱 I’m currently learning ...
 
-- Svelte 
+- Javascript 
 
 ## 💻 Technologies I use:
 
