@@ -4,7 +4,6 @@
 ## 🔭 I’m currently working on ...
 
 
-👨🏻‍🏫 <a href="https://github.com/HAUDRAUFHAUN/eduteam">eduteam</a>
 🌍 <a href="https://github.com/Luca180405/mywebsite" >My website</a>
 
 
