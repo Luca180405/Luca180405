@@ -15,5 +15,6 @@
 
 - Flutter<br>
 - Tailwind CSS<br>
+- Bootstrap<br>
 
 ## 📫 How to reach me:
